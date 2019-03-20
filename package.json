@@ -1,0 +1,14 @@
+{
+  "name": "totp-demo",
+  "version": "0.0.1",
+  "description": "Example project to show off TOTP",
+  "main": "totp.js",
+  "scripts": {},
+  "author": "Kelley Robinson",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "opn": "^5.5.0",
+    "qrcode": "^1.3.3",
+    "speakeasy": "^2.0.0"
+  }
+}
